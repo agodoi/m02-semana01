@@ -12,7 +12,7 @@ Essa instrução servirá para discutirmos os conceitos aprendidos nos autoestud
 - Pode usar imagens e infográficos.
 
 
-## Grupo 1 - O que é um browser?
+## Assunto 1 - O que é um browser?
 
   1)  O que acontece quando você digita uma URL num navegador?
   2)  O que é fluxo de bits e bytes?
@@ -27,7 +27,7 @@ Essa instrução servirá para discutirmos os conceitos aprendidos nos autoestud
   *  **Desafio:** tentar desmontrar esse fluxo de dados enquanto se navega na Internet ao vivo.
 
 
-## Grupo 2 - Introdução a arquitetura cliente-servidor e protocolos web
+## Assunto 2 - Introdução a arquitetura cliente-servidor e protocolos web
 
   1) O que são protocolos de comunicação?
   2) Quais os principais os protocolos? Cite 4 tipos e exemplo de aplicações.
@@ -41,3 +41,58 @@ Essa instrução servirá para discutirmos os conceitos aprendidos nos autoestud
   10) Quais os principais métodos HTTP? Cite dois exemplos de resposta do cabeçalho HTTP.
   * **Desafio:** resumir o que é Modelo OSI de 7 camadas
 
+## Assunto 3 - Introdução ao MVC
+Ler as páginas 98 e 99, capítulo 11. Neste autoestudo de texto, as duas páginas do livro demonstram o funcionamento de uma aplicação MVC.
+Referência: ALVES, William P. Java para Web - Desenvolvimento de Aplicações. São Paulo: Editora Saraiva, 2015. E-book. ISBN 9788536519357. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536519357/."
+
+## Assunto 4 - Anatomia de uma aplicação Sails
+
+https://sailsjs.com/documentation/anatomy
+
+## Assunto 5 - Gitflow básico
+
+https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar
+
+## Assunto 6 - SCRUM - Estratégias para definição de tasks
+
+https://www.brunafonseca.pro.br/post/user-story-saiba-mais-sobre-a-task
+
+
+## Paradigmas de programação
+Paradigma imperativo? Funcional? Orientado a objetos? Já ouviu falar desses conceitos em Programação? Este livro oferece, nos capítulos 8, 9, 10, 11 e 12 explicações detalhadas sobre estes paradigmas, contando sobre como são trabalhados elementos como variáveis e expressões/comandos em diversos contextos. Este autoestudo é opcional, mas ele te ajuda a contextualizar a prática de Javascript que você trabalhará ao longo desse módulo, e de quebra você ganha um repertório pra poder entender por que existem tantas linguagens diferentes de programação por aí.
+Referência: MELO, Ana Cristina Vieira de. Princípios de linguagem de programação. São Paulo: Editora Blucher, 2003. E-book. ISBN 9788521214922.
+
+
+## Atividade 1 Ponderada
+
+Atenção ao prazo: você deve fazer esta atividade ao longo das próximas semanas e entregar até o final da semana 6 (sexta-feira da semana 6). Não deixe para começar na última hora!!!
+
+Objetivo:
+Continuando seus estudos sobre Javascript, você deve concluir com sucesso a trilha de "Javascript Básico" (do Codecademy, demonstrando conhecimento fundamental da linguagem e suas principais aplicações.
+
+Atividades:
+- Assistir a todas as aulas da trilha, que cobrem tópicos como: Variáveis e tipos de dados; Operadores e expressões; Controle de fluxo (if, else, for, while); Funções; Arrays e objetos; Introdução ao DOM (Document Object Model);
+- Praticar os conceitos aprendidos através dos exercícios interativos da plataforma.
+- Realizar os projetos propostos ao longo da trilha, aplicando os conhecimentos adquiridos para construir.
+- Obter o certificado de conclusão da trilha.
+- IMPORTANTE: curso em inglês! Utilize tradutores do navegador ou consulte seu professor(a) em caso de dúvidas!
+
+## Atividade 2 Ponderada
+
+
+Prazo: até sexta-feira da semana 2
+
+Objetivo:
+Desenvolver e apresentar uma arquitetura detalhada em esboço do padrão MVC (Model-View-Controller) para um projeto Sails.js de sua escolha, demonstrando compreensão profunda dos conceitos do padrão e sua aplicação prática.
+
+Descrição:
+- Framework: Sails.js (https://sailsjs.com/)
+- Arquitetura: MVC (Model-View-Controller)
+- Ferramenta de Diagramação para entrega: draw.io (https://www.draw.io/)
+
+Atividades:
+
+Análise e Definição do Escopo:
+- Defina o objetivo principal do seu projeto Sails.js.
+- Identifique os principais módulos, funcionalidades e recursos que o projeto oferecerá.
+- Delimite o escopo da atividade, focando nas funcionalidades essenciais do projeto.
