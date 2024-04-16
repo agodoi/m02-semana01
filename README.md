@@ -79,12 +79,14 @@ Para futuras consultas ao longo desse módulo:
 
 ## Atividade 1 Ponderada
 
-Atenção ao prazo: você deve fazer esta atividade ao longo das próximas semanas e entregar até o final da semana 6 (sexta-feira da semana 6). Não deixe para começar na última hora!!!
+### Prazo: até sexta-feira da semana 6. Não deixe para começar na última hora!!!
 
-Objetivo:
+### Objetivo:
+
 Continuando seus estudos sobre Javascript, você deve concluir com sucesso a trilha de "Javascript Básico" (do Codecademy, demonstrando conhecimento fundamental da linguagem e suas principais aplicações.
 
-Atividades:
+### Atividades:
+
 - Assistir a todas as aulas da trilha, que cobrem tópicos como: Variáveis e tipos de dados; Operadores e expressões; Controle de fluxo (if, else, for, while); Funções; Arrays e objetos; Introdução ao DOM (Document Object Model);
 - Praticar os conceitos aprendidos através dos exercícios interativos da plataforma.
 - Realizar os projetos propostos ao longo da trilha, aplicando os conhecimentos adquiridos para construir.
@@ -93,18 +95,19 @@ Atividades:
 
 ## Atividade 2 Ponderada
 
+### Prazo: até sexta-feira da semana 2
 
-Prazo: até sexta-feira da semana 2
+### Objetivo:
 
-Objetivo:
 Desenvolver e apresentar uma arquitetura detalhada em esboço do padrão MVC (Model-View-Controller) para um projeto Sails.js de sua escolha, demonstrando compreensão profunda dos conceitos do padrão e sua aplicação prática.
 
-Descrição:
+### Descrição:
+
 - Framework: Sails.js (https://sailsjs.com/)
 - Arquitetura: MVC (Model-View-Controller)
 - Ferramenta de Diagramação para entrega: draw.io (https://www.draw.io/)
 
-Atividades:
+### Atividades:
 
 Análise e Definição do Escopo:
 - Defina o objetivo principal do seu projeto Sails.js.
