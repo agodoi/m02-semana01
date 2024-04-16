@@ -58,19 +58,27 @@ Essa instrução servirá para discutirmos os conceitos aprendidos nos autoestud
 
 ## Assunto 4 - Gitflow básico
 
-https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar
+Claro, aqui estão as respostas para as 10 questões sobre GitFlow:
 
-## Assunto 5 - SCRUM - Estratégias para definição de tasks
+  1) O que é o GitFlow e por que é utilizado no desenvolvimento de software?
+  2) Quais são os princípios fundamentais do GitFlow e como ele difere de outras metodologias de fluxo de trabalho com Git?
+  3) Quais são os componentes-chave do GitFlow e como eles interagem entre si?
+  4) Quais são as branches principais do GitFlow e qual é o propósito de cada uma?
+  5) Como são tratadas as novas funcionalidades, correções de bugs e lançamentos no GitFlow?
+  6) Quais são os benefícios e desafios de adotar o GitFlow em um projeto de desenvolvimento de software?
+  7) Quais são as melhores práticas para utilizar o GitFlow de forma eficaz e garantir uma integração contínua suave?
+  8) Como o GitFlow se relaciona com ferramentas de integração contínua e entrega contínua (CI/CD)?
+  9) Existem variações ou adaptações do GitFlow que são comumente usadas na indústria? Se sim, quais são e como diferem do GitFlow tradicional?
+  10) Como o GitFlow se adapta ou pode ser combinado com metodologias de desenvolvimento ágil, como Scrum ou Kanban, para melhorar o processo de desenvolvimento de software?
+  11) **Desafio:** tente mostrar exemplificar como usar o GitFlow no GitHub.
 
-https://www.brunafonseca.pro.br/post/user-story-saiba-mais-sobre-a-task
 
-
-## Assunto 6 - Paradigmas de programação
+## Assunto 5 - Paradigmas de programação
 Paradigma imperativo? Funcional? Orientado a objetos? Já ouviu falar desses conceitos em Programação? Este livro oferece, nos capítulos 8, 9, 10, 11 e 12 explicações detalhadas sobre estes paradigmas, contando sobre como são trabalhados elementos como variáveis e expressões/comandos em diversos contextos. Este autoestudo é opcional, mas ele te ajuda a contextualizar a prática de Javascript que você trabalhará ao longo desse módulo, e de quebra você ganha um repertório pra poder entender por que existem tantas linguagens diferentes de programação por aí.
 Referência: MELO, Ana Cristina Vieira de. Princípios de linguagem de programação. São Paulo: Editora Blucher, 2003. E-book. ISBN 9788521214922.
 
 
-## Assunto 7 (opcional) - Anatomia de uma aplicação Sails
+## Assunto 6 (opcional, não entra no sorteio) - Anatomia de uma aplicação Sails
 
 Sails é um framework JavaScript de código aberto, baseado em Node.js, projetado para facilitar o desenvolvimento de aplicativos da web e APIs (Interfaces de Programação de Aplicativos) em tempo real. Ele segue o padrão MVC (Model-View-Controller), o que significa que ajuda os desenvolvedores a organizar o código em modelos de dados (Model), interface do usuário (View) e lógica de controle (Controller).
 
