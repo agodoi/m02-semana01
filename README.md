@@ -90,14 +90,14 @@ Claro! Aqui estão 10 questões interessantes sobre User Stories e sua relação
   11) **Desafio**: como o grupo acha que podemos aplicar essa estratégia no projeto da Dell?
 
 
-## Assunto 5 (opcional, não entra no sorteio) - Paradigmas de programação
+## Assunto 6 (opcional, não entra no sorteio) - Paradigmas de programação
 
 Paradigma imperativo? Funcional? Orientado a objetos? Já ouviu falar desses conceitos em Programação? Este livro oferece, nos capítulos 8, 9, 10, 11 e 12 explicações detalhadas sobre estes paradigmas, contando sobre como são trabalhados elementos como variáveis e expressões/comandos em diversos contextos. Este autoestudo é opcional, mas ele te ajuda a contextualizar a prática de Javascript que você trabalhará ao longo desse módulo, e de quebra você ganha um repertório pra poder entender por que existem tantas linguagens diferentes de programação por aí.
 
 Referência: MELO, Ana Cristina Vieira de. Princípios de linguagem de programação. São Paulo: Editora Blucher, 2003. E-book. ISBN 9788521214922.
 
 
-## Assunto 6 (opcional, não entra no sorteio) - Anatomia de uma aplicação Sails
+## Assunto 7 (opcional, não entra no sorteio) - Anatomia de uma aplicação Sails
 
 Sails é um framework JavaScript de código aberto, baseado em Node.js, projetado para facilitar o desenvolvimento de aplicativos da web e APIs (Interfaces de Programação de Aplicativos) em tempo real. Ele segue o padrão MVC (Model-View-Controller), o que significa que ajuda os desenvolvedores a organizar o código em modelos de dados (Model), interface do usuário (View) e lógica de controle (Controller).
 
