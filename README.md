@@ -24,7 +24,7 @@ Essa instrução servirá para discutirmos os conceitos aprendidos nos autoestud
   8)  O que é protocolo de comunicação?
   9)  O que é Arquitetura cliente-servidor?
   10)  Precisa colocar www todas as vezes no navegador?
-  *  **Desafio:** tentar desmontrar esse fluxo de dados enquanto se navega na Internet ao vivo.
+  11)  **Desafio:** tentar desmontrar esse fluxo de dados enquanto se navega na Internet ao vivo.
 
 
 ## Assunto 2 - Introdução a arquitetura cliente-servidor e protocolos web
@@ -39,28 +39,42 @@ Essa instrução servirá para discutirmos os conceitos aprendidos nos autoestud
   8) Qual é a diferença entre linguagem de marcação, estilização e script?
   9) Para que serve o DNS?
   10) Quais os principais métodos HTTP? Cite dois exemplos de resposta do cabeçalho HTTP.
-  * **Desafio:** resumir o que é Modelo OSI de 7 camadas
+  11) **Desafio:** resumir o que é Modelo OSI de 7 camadas
 
 ## Assunto 3 - Introdução ao MVC
-Ler as páginas 98 e 99, capítulo 11. Neste autoestudo de texto, as duas páginas do livro demonstram o funcionamento de uma aplicação MVC.
-Referência: ALVES, William P. Java para Web - Desenvolvimento de Aplicações. São Paulo: Editora Saraiva, 2015. E-book. ISBN 9788536519357. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536519357/."
 
-## Assunto 4 - Anatomia de uma aplicação Sails
+  1) Qual é a definição de MVC e quais são seus principais componentes?
+  2) Quais são os principais benefícios do uso do padrão MVC na arquitetura de software?
+  3) Quais são as diferenças entre o padrão MVC e outros padrões de arquitetura, como MVP (Model-View-Presenter) e MVVM (Model-View-ViewModel)?
+  4) Como o padrão MVC facilita a separação de preocupações (separation of concerns) em uma aplicação?
+  5) Quais são as linguagens de programação e frameworks mais comuns que utilizam o padrão MVC em seu design?
+  6) Quais são as responsabilidades de cada componente do padrão MVC em uma aplicação web?
+  7) Como o Modelo se relaciona com o Banco de Dados em uma aplicação que utiliza o padrão MVC?
+  8) Qual é o papel do Controlador na manipulação das requisições do usuário e na comunicação com o Modelo e a Visão?
+  9) Como o padrão MVC pode facilitar o desenvolvimento colaborativo em equipes de desenvolvimento de software?
+  10) Quais são os desafios comuns enfrentados ao implementar o padrão MVC e como podem ser superados?
+  11) **Desafio:** tenta fazer um exemplo usando HTML, CSS e JavaScript.
 
-https://sailsjs.com/documentation/anatomy
 
-## Assunto 5 - Gitflow básico
+## Assunto 4 - Gitflow básico
 
 https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar
 
-## Assunto 6 - SCRUM - Estratégias para definição de tasks
+## Assunto 5 - SCRUM - Estratégias para definição de tasks
 
 https://www.brunafonseca.pro.br/post/user-story-saiba-mais-sobre-a-task
 
 
-## Paradigmas de programação
+## Assunto 6 - Paradigmas de programação
 Paradigma imperativo? Funcional? Orientado a objetos? Já ouviu falar desses conceitos em Programação? Este livro oferece, nos capítulos 8, 9, 10, 11 e 12 explicações detalhadas sobre estes paradigmas, contando sobre como são trabalhados elementos como variáveis e expressões/comandos em diversos contextos. Este autoestudo é opcional, mas ele te ajuda a contextualizar a prática de Javascript que você trabalhará ao longo desse módulo, e de quebra você ganha um repertório pra poder entender por que existem tantas linguagens diferentes de programação por aí.
 Referência: MELO, Ana Cristina Vieira de. Princípios de linguagem de programação. São Paulo: Editora Blucher, 2003. E-book. ISBN 9788521214922.
+
+
+## Assunto 7 - Anatomia de uma aplicação Sails
+
+Para futuras consultas ao longo desse módulo:
+
+[https://sailsjs.com/documentation/anatomy](https://sailsjs.com/documentation/anatomy)
 
 
 ## Atividade 1 Ponderada
