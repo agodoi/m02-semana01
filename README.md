@@ -73,8 +73,27 @@ Claro, aqui estão as respostas para as 10 questões sobre GitFlow:
   11) **Desafio:** tente mostrar exemplificar como usar o GitFlow no GitHub.
 
 
-## Assunto 5 - Paradigmas de programação
+## Assunto 5 - SCRUM - Estratégias para definição de tasks
+
+Claro! Aqui estão 10 questões interessantes sobre User Stories e sua relação com o método Scrum:
+
+  1) Quais são os princípios fundamentais por trás das User Stories no desenvolvimento de software?
+  2) Como as User Stories ajudam a equipe de desenvolvimento a compreender e atender às necessidades do usuário final?
+  3) Qual é o papel do Product Owner na criação e gestão das User Stories durante o desenvolvimento de um projeto Scrum?
+  4) Quais são os critérios comuns para uma User Story bem formulada? Como uma User Story pode ser descrita de forma eficaz?
+  5) Como as User Stories são priorizadas no backlog do produto? Quais são os critérios comuns para priorizar User Stories?
+  6) Qual é a diferença entre User Stories e tarefas? Como as tarefas são derivadas das User Stories durante o planejamento do Sprint?
+  7) Quais são os desafios comuns enfrentados pelas equipes ao escrever e gerenciar User Stories em projetos Scrum? Como esses desafios podem ser superados?
+  8) Quais são as melhores práticas para estimar o esforço necessário para implementar uma User Story? Como a técnica de estimativa de pontos de história é aplicada?
+  9) Como as User Stories contribuem para a transparência, colaboração e entrega incremental em projetos Scrum?
+  10) Existem ferramentas e técnicas específicas disponíveis para ajudar as equipes a escrever, gerenciar e acompanhar User Stories ao longo do ciclo de vida de um projeto Scrum? Se sim, cite exemplos
+  11) **Desafio**: como o grupo acha que podemos aplicar essa estratégia no projeto da Dell?
+
+
+## Assunto 5 (opcional, não entra no sorteio) - Paradigmas de programação
+
 Paradigma imperativo? Funcional? Orientado a objetos? Já ouviu falar desses conceitos em Programação? Este livro oferece, nos capítulos 8, 9, 10, 11 e 12 explicações detalhadas sobre estes paradigmas, contando sobre como são trabalhados elementos como variáveis e expressões/comandos em diversos contextos. Este autoestudo é opcional, mas ele te ajuda a contextualizar a prática de Javascript que você trabalhará ao longo desse módulo, e de quebra você ganha um repertório pra poder entender por que existem tantas linguagens diferentes de programação por aí.
+
 Referência: MELO, Ana Cristina Vieira de. Princípios de linguagem de programação. São Paulo: Editora Blucher, 2003. E-book. ISBN 9788521214922.
 
 
