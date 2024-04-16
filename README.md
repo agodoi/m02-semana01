@@ -70,10 +70,27 @@ Paradigma imperativo? Funcional? Orientado a objetos? Já ouviu falar desses con
 Referência: MELO, Ana Cristina Vieira de. Princípios de linguagem de programação. São Paulo: Editora Blucher, 2003. E-book. ISBN 9788521214922.
 
 
-## Assunto 7 - Anatomia de uma aplicação Sails
+## Assunto 7 (opcional) - Anatomia de uma aplicação Sails
 
-Para futuras consultas ao longo desse módulo:
+Sails é um framework JavaScript de código aberto, baseado em Node.js, projetado para facilitar o desenvolvimento de aplicativos da web e APIs (Interfaces de Programação de Aplicativos) em tempo real. Ele segue o padrão MVC (Model-View-Controller), o que significa que ajuda os desenvolvedores a organizar o código em modelos de dados (Model), interface do usuário (View) e lógica de controle (Controller).
 
+Principais características do Sails:
+
+* Facilita o Desenvolvimento: Sails simplifica muitas tarefas comuns no desenvolvimento web, como manipulação de solicitações HTTP, conexão com bancos de dados e validação de dados.
+
+* Padrão MVC: Segue o padrão arquitetural MVC, permitindo uma separação clara das preocupações e uma estrutura organizada para o código do aplicativo.
+
+* Real-time: O Sails.js é particularmente eficaz no desenvolvimento de aplicativos em tempo real, como chats, dashboards em tempo real, jogos multiplayer e aplicativos de colaboração.
+
+* Compatibilidade com Bancos de Dados: Integra-se facilmente com uma variedade de bancos de dados, incluindo MySQL, PostgreSQL, MongoDB e outros, permitindo flexibilidade na escolha da tecnologia de armazenamento de dados.
+
+* Roteamento Automático: O Sails.js oferece roteamento automático, o que significa que os controladores são associados automaticamente às rotas HTTP com base em convenções de nomenclatura.
+
+* Blueprints e Scaffolding: Fornece recursos como blueprints e scaffolding para gerar automaticamente APIs RESTful completas com base nos modelos de dados definidos.
+
+* Extensibilidade: Sails é altamente extensível, permitindo que os desenvolvedores criem plugins e módulos personalizados para estender a funcionalidade do framework conforme necessário.
+
+* Comunidade Ativa: Possui uma comunidade ativa de desenvolvedores e uma vasta quantidade de recursos, documentação e suporte disponíveis.
 [https://sailsjs.com/documentation/anatomy](https://sailsjs.com/documentation/anatomy)
 
 
